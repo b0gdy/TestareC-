@@ -1,0 +1,6 @@
+@TestareC__HostAddress = http://localhost:5005
+
+GET {{TestareC__HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
